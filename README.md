@@ -1,6 +1,6 @@
 # Chrome Extension React Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Clone this repo to bootstrap a Chrome Extension React app.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). [Duplicate this repo to bootstrap a Chrome Extension React app](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository).
 
 ## Available Scripts
 
